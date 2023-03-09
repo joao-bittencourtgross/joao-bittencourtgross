@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desenvolvedor Web - Front End<br>Cursando Análise e Desenvolvimento de Sistemas<br><br>Atualmente buscando ainda mais conhecimento <br>para evoluir profissionalmente.
+Desenvolvedor Web<br>Cursando Análise e Desenvolvimento de Sistemas<br><br>Atualmente buscando ainda mais conhecimento <br>para evoluir profissionalmente.
 
 
 ## 🌐 Socials:
