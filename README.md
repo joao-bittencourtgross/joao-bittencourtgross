@@ -1,4 +1,4 @@
-<h1 align="left">💫 About me</h1>
+<h2 align="left">💫 About me</h2>
 
 ###
 
@@ -21,7 +21,7 @@
 
 ###
 
-<h2 align="left">💻 Tech Stack:</h2>
+<h2 align="left">💻 Tech Stack</h2>
 
 ###
 
