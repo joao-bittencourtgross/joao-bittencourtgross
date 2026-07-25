@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Desenvolvedor Full-Stack<br>Cursando Análise e Desenvolvimento de Sistemas<br><br>Atualmente buscando ainda mais conhecimento<br>para evoluir profissionalmente.</p>
+<p align="left">Desenvolvedor Full-Stack<br><br>Atualmente buscando ainda mais conhecimento<br>para evoluir profissionalmente.</p>
 
 ###
 
